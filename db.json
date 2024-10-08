@@ -1,0 +1,37 @@
+{
+  "invoices": [
+    { "id": "INV001", "dueDate": "10th October 2024", "amount": "$1,000", "status": "Paid" },
+    { "id": "INV002", "dueDate": "12th October 2024", "amount": "$2,500", "status": "Unpaid" },
+    { "id": "INV003", "dueDate": "15th October 2024", "amount": "$3,800", "status": "Overdue" },
+    { "id": "INV004", "dueDate": "18th October 2024", "amount": "$4,100", "status": "Paid" },
+    { "id": "INV005", "dueDate": "20th October 2024", "amount": "$5,300", "status": "Unpaid" },
+    { "id": "INV006", "dueDate": "1st November 2024", "amount": "$6,400", "status": "Overdue" },
+    { "id": "INV007", "dueDate": "10th November 2024", "amount": "$7,200", "status": "Paid" },
+    { "id": "INV008", "dueDate": "12th November 2024", "amount": "$8,500", "status": "Unpaid" },
+    { "id": "INV009", "dueDate": "20th November 2024", "amount": "$9,300", "status": "Overdue" },
+    { "id": "INV010", "dueDate": "27th November 2024", "amount": "$10,000", "status": "Unpaid" }
+  ],
+  "activities": [
+    { 
+      "id": 1,
+      "avatar": "/src/assets/images.png",
+      "name": "Olaniyi Ojo Adewale",
+      "time": "Yesterday, 12:05 PM",
+      "description": "Created Invoice 0032943/4 Olaniyi Ojo Adewale"
+    },
+    { 
+      "id": 2,
+      "avatar": "/src/assets/images.png",
+      "name": "Olaniyi Ojo Adewale",
+      "time": "Yesterday, 12:05 PM",
+      "description": "Created Invoice 0032943/4 Olaniyi Ojo Adewale"
+    },
+    { 
+      "id": 3,
+      "avatar": "/src/assets/images.png",
+      "name": "Olaniyi Ojo Adewale",
+      "time": "Yesterday, 12:05 PM",
+      "description": "Created Invoice 0032943/4 Olaniyi Ojo Adewale"
+    }
+  ]
+}
